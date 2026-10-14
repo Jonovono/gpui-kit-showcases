@@ -1,0 +1,16 @@
+{
+  "id": "oxshot",
+  "name": "OxShot",
+  "author": "srcmkr",
+  "description": "A fast screenshot and annotation tool for Linux X11, built with Rust and GPUI Kit. Capture regions, windows or monitors, add editable annotations, blur sensitive details, pick colors and copy the result to the clipboard.",
+  "category": "system",
+  "platforms": [
+    "Linux"
+  ],
+  "website": null,
+  "source": "https://github.com/srcmkr/OxShot",
+  "publishedAt": "2026-10-14T08:50:00Z",
+  "previews": [
+    "preview0.png"
+  ]
+}
