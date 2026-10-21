@@ -4,9 +4,17 @@
   "author": "zanmato",
   "description": "A cross platform SQL editor and database client for PostgreSQL, MySQL, SQLite, DuckDB, SQL Server, CockroachDB, ClickHouse and Redis. Schema aware completion, an editable results grid, importing and JavaScript scripting.",
   "category": "dev",
-  "platforms": ["macOS", "Windows", "Linux"],
+  "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+  ],
   "website": "https://zanmato.github.io/blanco/",
   "source": "https://github.com/zanmato/blanco",
   "publishedAt": "2026-10-02T14:11:07+02:00",
-  "previews": ["preview0.png"]
+  "previews": [
+    "preview0.png"
+  ],
+  "stars": 2,
+  "starsUpdatedAt": "2026-10-21T00:16:16.367Z"
 }
